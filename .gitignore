@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+dist/
+.vercel/
+.env*.local
+*.log
+.DS_Store
+_estagios_commits/
+publicar_commits_equipe.ps1
