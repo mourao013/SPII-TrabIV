@@ -8,8 +8,8 @@ Projeto de evolução e migração do **Sistema de Consulta de Servidores do Pod
 
 | Integrante | Matrícula | Papel no Projeto |
 | :--- | :---: | :--- |
-| **Carlos Mourão** | `169618` | Camada de Dados, Busca por Trigramas, API Routes e Rota Dinâmica SSR (`/servidor/[id]`) |
-| **Pedro Henrique Cardoso** | `171075` | Arquitetura Next.js App Router, Página Inicial em SSG (`/`) e Painel de Indicadores em ISR (`/estatisticas`) |
+| **Carlos Mourão** | `171075` | Camada de Dados, Busca por Trigramas, API Routes e Rota Dinâmica SSR (`/servidor/[id]`) |
+| **Pedro Henrique Cardoso** | `169618` | Arquitetura Next.js App Router, Página Inicial em SSG (`/`) e Painel de Indicadores em ISR (`/estatisticas`) |
 | **João Vitor** | `171077` | Design System Institucional, Página de Consulta Interativa em CSR (`/consulta`) e Análise Lighthouse |
 
 ---
